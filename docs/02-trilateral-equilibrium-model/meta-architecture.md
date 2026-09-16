@@ -8,23 +8,6 @@ The Trilateral Equilibrium Model (TEM) posits that human sovereignty is a multi-
 
 A catastrophic failure on any single ledger introduces immediate structural drag across the other two, destabilizing global system integrity.
 
-[ THE TRILATERAL CONSTELLATION ]
-
-[ RELATIONSHIPS ]           
-• The RUM Engine
-• Focus: Interpersonal
-• Metric: Relational Yield
-
-[ RESOURCES ]               
-• The FUM Engine
-• Focus: Capital/Execution
-• Metric: Financial Autonomy
-
-[ RECOVERY ]
-• The HUM Engine            
-• Focus: Biological Core        
-• Metric: Kinetic Capacity
-
 ## 2. Mathematical Foundation & Variable Constraints
 Every matrix within the Trilateral Constellation utilizes a standardized, non-linear algebraic structure designed to measure net operational efficiency:
 
