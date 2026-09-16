@@ -8,7 +8,7 @@ Sovereign accounting enforces a formal **Balance Sheet Restructuring**:
 $$\text{Historical Expenditure (Time, Capital, Energy)} \quad \xrightarrow{\text{Strategic Restatement}} \quad \text{Capitalized RnD Asset (Competence)}$$
 
 * **Phase 1: Autopsy the Failure:** Acknowledge system failure without emotional hedging. The collapse was not bad luck; the system contained architectural vulnerabilities.
-* **Phase 2: Extract System Telemetry:** Identify the specific telemetry indicators and boundary breaches that preceded structural collapse.
+* **Phase 2: Extract System Impacts:** Identify the specific indicators and boundary breaches that preceded structural collapse.
 * **Phase 3: Update Source Code:** Reclassify past losses as research and development expenses. The capital did not vanish; it was converted into an intangible asset: **calibrated competence and hardened operational boundaries**.
 
 ---
