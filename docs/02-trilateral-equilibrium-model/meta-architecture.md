@@ -36,7 +36,7 @@ $$\text{RUM} = \frac{S \times EB}{EC}$$
 ### Frontier II: The Financial Utility Matrix (FUM)
 Governs capital generation, corporate interfaces, and commercial architecture:
 $$\text{FUM} = \frac{FO \times A}{EO}$$
-* **$FO$ (Financial Opportunity):** Top-line capital extraction potential, cash flow yield, market leverage.
+* **$FO$ (Financial Opportunity):** Top-line capital generation potential, cash flow yield, market leverage.
 * **$A$ (Alignment & Autonomy):** Schedule control, philosophical resonance, ethical integrity, intellectual freedom.
 * **$EO$ (Economic Overhead & Drag):** Bureaucratic friction, compliance theater, commute/relocation drain, administrative tax.
 
