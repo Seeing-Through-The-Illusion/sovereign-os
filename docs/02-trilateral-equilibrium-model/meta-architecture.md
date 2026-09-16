@@ -7,14 +7,23 @@ The Trilateral Equilibrium Model (TEM) posits that human sovereignty is a multi-
 * **Recovery | Health Utility Model (HUM):** Biological preservation, kinetic output, and maintenance costs.
 
 A catastrophic failure on any single ledger introduces immediate structural drag across the other two, destabilizing global system integrity.
+
 [ THE TRILATERAL CONSTELLATION ]
-                             │
- ┌───────────────────────────┼───────────────────────────┐
- ▼                           ▼                           ▼
-[ RELATIONSHIPS ]           [ RESOURCES ]               [ RECOVERY ]
-• The RUM Engine            • The FUM Engine            • The HUM Engine
-• Focus: Interpersonal      • Focus: Capital/Execution  • Focus: Biological Core
-• Metric: Relational Yield  • Metric: Financial Autonomy• Metric: Kinetic Capacity
+
+[ RELATIONSHIPS ]           
+• The RUM Engine
+• Focus: Interpersonal
+• Metric: Relational Yield
+
+[ RESOURCES ]               
+• The FUM Engine
+• Focus: Capital/Execution
+• Metric: Financial Autonomy
+
+[ RECOVERY ]
+• The HUM Engine            
+• Focus: Biological Core        
+• Metric: Kinetic Capacity
 
 ## 2. Mathematical Foundation & Variable Constraints
 Every matrix within the Trilateral Constellation utilizes a standardized, non-linear algebraic structure designed to measure net operational efficiency:
