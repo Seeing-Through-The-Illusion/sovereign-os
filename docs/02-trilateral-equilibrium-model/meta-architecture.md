@@ -2,9 +2,9 @@
 
 ## 1. The Meta-Architecture
 The Trilateral Equilibrium Model (TEM) posits that human sovereignty is a multi-front asset allocation problem operating across three distinct, independent **Systemic Performance Ledgers**:
-* **Relationships (RUM):** Interpersonal yield, polarity, and relational drag.
-* **Resources (FUM):** Financial opportunity, career alignment, and operational overhead.
-* **Recovery (HUM):** Biological preservation, kinetic output, and maintenance costs.
+* **Relationships | Relationship Utility Model (RUM):** Interpersonal yield, polarity, and relational drag.
+* **Resources | Financial Utility Model (FUM):** Financial opportunity, career alignment, and operational overhead.
+* **Recovery | Health Utility Model (HUM):** Biological preservation, kinetic output, and maintenance costs.
 
 A catastrophic failure on any single ledger introduces immediate structural drag across the other two, destabilizing global system integrity.
 [ THE TRILATERAL CONSTELLATION ]
