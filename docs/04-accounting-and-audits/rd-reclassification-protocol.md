@@ -1,6 +1,6 @@
 # Pillar IV: Sovereign Accounting & Audits
 
-## 1. The R&D Reclassification Protocol
+## 1. The RnD Reclassification Protocol
 Most individuals navigate life under a bankrupt emotional identity because they operate under traditional P&L assumptions. When an enterprise, marriage, or financial venture collapses, they record the historical inputs as **Operating Losses (OpEx)**—wasted energy burned with zero return.
 
 Sovereign accounting enforces a formal **Balance Sheet Restructuring**:
